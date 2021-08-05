@@ -1,0 +1,20 @@
+C:\Users\PC\source\repos\BeatSaverSharp\BeatSaverSharp test\bin\Debug\net5.0\BeatSaverSharp test.exe
+C:\Users\PC\source\repos\BeatSaverSharp\BeatSaverSharp test\bin\Debug\net5.0\BeatSaverSharp test.deps.json
+C:\Users\PC\source\repos\BeatSaverSharp\BeatSaverSharp test\bin\Debug\net5.0\BeatSaverSharp test.runtimeconfig.json
+C:\Users\PC\source\repos\BeatSaverSharp\BeatSaverSharp test\bin\Debug\net5.0\BeatSaverSharp test.runtimeconfig.dev.json
+C:\Users\PC\source\repos\BeatSaverSharp\BeatSaverSharp test\bin\Debug\net5.0\BeatSaverSharp test.dll
+C:\Users\PC\source\repos\BeatSaverSharp\BeatSaverSharp test\bin\Debug\net5.0\ref\BeatSaverSharp test.dll
+C:\Users\PC\source\repos\BeatSaverSharp\BeatSaverSharp test\bin\Debug\net5.0\BeatSaverSharp test.pdb
+C:\Users\PC\source\repos\BeatSaverSharp\BeatSaverSharp test\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\PC\source\repos\BeatSaverSharp\BeatSaverSharp test\bin\Debug\net5.0\BeatSaverSharp.dll
+C:\Users\PC\source\repos\BeatSaverSharp\BeatSaverSharp test\bin\Debug\net5.0\BeatSaverSharp.pdb
+C:\Users\PC\source\repos\BeatSaverSharp\BeatSaverSharp test\obj\Debug\net5.0\BeatSaverSharp test.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\BeatSaverSharp\BeatSaverSharp test\obj\Debug\net5.0\BeatSaverSharp test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\BeatSaverSharp\BeatSaverSharp test\obj\Debug\net5.0\BeatSaverSharp test.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\BeatSaverSharp\BeatSaverSharp test\obj\Debug\net5.0\BeatSaverSharp test.AssemblyInfo.cs
+C:\Users\PC\source\repos\BeatSaverSharp\BeatSaverSharp test\obj\Debug\net5.0\BeatSaverSharp test.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\BeatSaverSharp\BeatSaverSharp test\obj\Debug\net5.0\BeatSaverSharp test.csproj.CopyComplete
+C:\Users\PC\source\repos\BeatSaverSharp\BeatSaverSharp test\obj\Debug\net5.0\BeatSaverSharp test.dll
+C:\Users\PC\source\repos\BeatSaverSharp\BeatSaverSharp test\obj\Debug\net5.0\ref\BeatSaverSharp test.dll
+C:\Users\PC\source\repos\BeatSaverSharp\BeatSaverSharp test\obj\Debug\net5.0\BeatSaverSharp test.pdb
+C:\Users\PC\source\repos\BeatSaverSharp\BeatSaverSharp test\obj\Debug\net5.0\BeatSaverSharp test.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FysyUWvt2d1ynU2U4boQn5wJ3xA4Ta82mKbrp/r4zU8qq1jEGk/vzoEcK15nHOEXWRIF5EXbGoigYKn0GWisew==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\source\\repos\\BeatSaverSharp\\BeatSaverSharp test\\BeatSaverSharp test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

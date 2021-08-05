@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeatSaverSharp", "BeatSaverSharp\BeatSaverSharp.csproj", "{F209049F-BEEE-4C17-AE2A-F41EAA84162B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeatSaverSharp test", "BeatSaverSharp test\BeatSaverSharp test.csproj", "{A231B2E5-7DE9-4FE3-AF1C-ED2E659A141C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F209049F-BEEE-4C17-AE2A-F41EAA84162B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F209049F-BEEE-4C17-AE2A-F41EAA84162B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F209049F-BEEE-4C17-AE2A-F41EAA84162B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F209049F-BEEE-4C17-AE2A-F41EAA84162B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A231B2E5-7DE9-4FE3-AF1C-ED2E659A141C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A231B2E5-7DE9-4FE3-AF1C-ED2E659A141C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A231B2E5-7DE9-4FE3-AF1C-ED2E659A141C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A231B2E5-7DE9-4FE3-AF1C-ED2E659A141C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85C14A2F-5720-44A7-A71D-F15209C3A055}
+	EndGlobalSection
+EndGlobal
